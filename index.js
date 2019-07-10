@@ -5,6 +5,7 @@ let dt = new Date();
 function zeroL(n){
     return n < 10 ? '0' + n : n ; 
 }
+//O caminho para salvar o backup
 
 let folderDest = "E:\\backup_mysql\\backup\\";
 
